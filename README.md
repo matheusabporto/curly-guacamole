@@ -4,11 +4,17 @@ Ambiente de Desenvolvimento de software
 
 --> Aprendendo a mexer no gitHub!
 
-git clone url
 
+
+--Comandos Uteis
+
+git clone url
 pwd
 dir
 cd nome da pasta
+
+Se nao conseguir autenticar usuario faça o comando:
+cmdkey /delete:git:https://github.com
 
 MANTRA{
 git add nome.extensao
