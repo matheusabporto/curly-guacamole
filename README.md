@@ -22,4 +22,9 @@ git commit -m "msg"
 git push
 }
 
+comandos uteis github
+
+git checkout -b dev //cria uma branch e "dev" é o nome padronizado para a primeira branch da main
+
+
 testando agora os 3 codigos para enviar ao meu repositorio sozinho.
